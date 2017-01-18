@@ -1,4 +1,4 @@
-﻿package com.aju;
+package com.aju;
 
 /**
  * Hello world!
